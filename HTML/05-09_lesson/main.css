@@ -5,3 +5,12 @@ html {
     background-color: black;
     color: beige;
   }
+  a{
+    color: rgb(76, 154, 223);
+  }
+  a:visited{
+    color: rgb(124, 218, 223)
+  }
+  a:hover,a:active{
+    color: #eee
+  }
